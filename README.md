@@ -1,6 +1,6 @@
 # PolyHunt
 <H2> Hunt the Polynomial<br/></H2>
-<H3>By: Apoorv Sharma</H3>
+<H3>By: Piyush Bhardwaj</H3>
 <H3>1. Method:<br/></H3>
 <p>The Autofit method implemented in this assignment sweeps through order
 until 30 and performs cross validation on the dataset for each order to get the average of
